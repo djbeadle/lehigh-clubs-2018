@@ -2,4 +2,4 @@
 
 Scraped directly from the LINC.
 
-More details here: 
+Detailed explination here: [https://danielbeadle.net/blog/post/2018-04-14-scraping-react-with-python/](https://danielbeadle.net/blog/post/2018-04-14-scraping-react-with-python/)
